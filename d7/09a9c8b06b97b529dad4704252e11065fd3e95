@@ -1,0 +1,39 @@
+LICENSE
+  s_22abc65673f408::t_82de0d969c9915 1-395
+docs/README.md
+  s_22abc65673f408::t_c8a4fdc437feed 1-15
+docs/adaptacao.md
+  s_22abc65673f408::t_815a92e108be1d 1-70
+docs/fotografia.md
+  s_22abc65673f408::t_c4127ff8891546 1-40
+docs/fundamentos.md
+  s_22abc65673f408::t_6054ca89d47a39 1-53
+docs/preparacao-ampliada.md
+  s_22abc65673f408::t_91fd7f852f79c3 1-47
+docs/processo.md
+  s_22abc65673f408::t_b63356a4f14fb7 1-111
+templates/README.md
+  s_22abc65673f408::t_25713d240fd4be 1-16
+templates/gerar-fotografia.md
+  s_22abc65673f408::t_b2616d1347100a 1-53
+templates/preparar-reuniao.md
+  s_22abc65673f408::t_84d0073c1151d4 1-66
+templates/processar-reuniao.md
+  s_22abc65673f408::t_f45526d88c239f 1-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d709a9c8b06b97b529dad4704252e11065fd3e95",
+  "prompts": {},
+  "sessions": {
+    "s_22abc65673f408": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a14586-1aef-7453-8e76-28de1185c6bc",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Luis Novo <lfnovo@gmail.com>"
+    }
+  }
+}
