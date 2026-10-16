@@ -1,0 +1,12 @@
+{
+  "protocol": "0.1.0",
+  "date": "2026-10-16",
+  "templates": {
+    "templates/preparar-reuniao.md": "0.1.0",
+    "templates/gerar-fotografia.md": "0.1.0",
+    "templates/processar-reuniao.md": "0.1.0",
+    "templates/registro-de-adocao.md": "0.1.0"
+  },
+  "implementation": null,
+  "license": "CC-BY-4.0"
+}
